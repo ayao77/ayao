@@ -7,7 +7,8 @@ public class Hello{
 
 	public static void print(){
 		System.out.println("*************************");
-		System.out.println("*	   Hello nihhao		*");
+		System.out.println("#########################");
 		System.out.println("*************************");
+		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%");
 	}
 }
